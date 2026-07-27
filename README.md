@@ -1,6 +1,6 @@
-# os-implementations
+# Low Level Implementations
 
-C++/C implementations of OS and concurrency concepts.
+C++/C implementations of OS, concurrency, and DSA concepts.
 
 ## Structure
 - `implementations/` — from-scratch implementations (lock-free queues, spinlocks, thread pools, etc.)
